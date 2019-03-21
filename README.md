@@ -9,7 +9,7 @@ The online job portal application allows job seekers and recruiters to connect.T
 There are 100 candidate users, 100 companies account & 1 admin account.
 There are 100 dummy job posts added by random companies.
 
-Step 1: Create a database called jobboard and import everything from database.sql file. Next check your db.php file for database connection configuration
+Step 1: Create a database called jobboard and import everything from jobboard.sql file(you can find it inside database folder). Next check your db.php file for database connection configuration
 
 ```php
 //Your db.php Mysql Config
